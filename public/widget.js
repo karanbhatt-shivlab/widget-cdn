@@ -21,7 +21,7 @@
   const host = window.location.hostname;
 
   // Backend endpoint (change later)
-  const API_URL = "https://api.yourapp.com/embed/config";
+  const API_URL = "https://cinerary-mckayla-harmful.ngrok-free.dev/api/v1/domain/script.js";
 
   // Fetch config from backend
   fetch(API_URL, {
